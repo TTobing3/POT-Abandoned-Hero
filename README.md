@@ -4,6 +4,7 @@
 기간 : 2023. 9-12. (3개월)  <br>
 인원 : 4명 <br>
 역할 : 이동 시스템 및 전투 시스템 공동 개발, 카드 일러스트 및 캐릭터 아트 등 아이콘을 제외한 모든 아트
+개발 : 유니티, C#
 
 게임 플레이 파일 링크 : https://drive.google.com/file/d/1DDmq1EJj8pSQst4ilABDLe3uOB55E-z_/view?usp=sharing
 
