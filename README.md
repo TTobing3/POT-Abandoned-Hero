@@ -5,7 +5,7 @@
 인원 : 4명 <br>
 역할 : 이동 시스템 및 전투 시스템 공동 개발, 카드 일러스트 및 캐릭터 아트 등 아이콘을 제외한 모든 아트
 
-게임 플레이 파일 첨부
+게임 플레이 파일 링크 : https://drive.google.com/file/d/1DDmq1EJj8pSQst4ilABDLe3uOB55E-z_/view?usp=sharing
 
 ( 현재 Repository에는 사운드 및 일부 아이콘 이미지 유료에셋 사용으로 인해 소스코드만 등록되어 있습니다. )
 
